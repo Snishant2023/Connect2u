@@ -198,6 +198,20 @@ header {
     left: 50%;
     transform: translate(-50%, -50%); 
 }
+.logo {
+    height: 2000px;
+    width: auto;
+    float: left;
+    margin-top: 20px;
+}
+
+.logo-black { 
+    display: none;
+    height: 2000px;
+    width: auto;
+    float: left;
+    margin-top: 20px;
+}
 
 /* Main navi */
 .main-nav {
