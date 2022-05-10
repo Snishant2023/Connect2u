@@ -166,12 +166,12 @@ input[type=submit] {
 .btn-full:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    border: 1px solid #9932CC;
+    border: 1px solid #2bff00;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #9932CC;
+    border: 1px solid #2bff00;
     color: #FFFFF0;
 }
 
