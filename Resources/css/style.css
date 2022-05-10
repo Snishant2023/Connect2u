@@ -200,7 +200,7 @@ header {
 }
 
 .logo {
-    height: 50px;
+    height: 500px;
     width: auto;
     float: left;
     margin-top: 20px;
@@ -208,10 +208,10 @@ header {
 
 .logo-black { 
     display: none;
-    height: 5px;
-    width: 5px;
-    float: right;
-    margin-top: 3px 0;
+    height: 150px;
+    width: auto;
+    float: left;
+    margin-top: 20px;
 }
 
 /* Main navi */
