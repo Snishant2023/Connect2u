@@ -184,7 +184,7 @@ input[type=submit]:active {
 /*----------------------------------*/
     
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/hero-min.png);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(../img/hero-min.png);
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -227,7 +227,7 @@ header {
 .main-nav li a:link,
 .main-nav li a:visited {
     padding: 8px 0;
-    color: #9932CC;
+    color: #3df705;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 90%;
@@ -237,7 +237,7 @@ header {
 }
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #9932CC;
+    border-bottom: 2px solid #3df705;
 }
 /* Mobile navi */
 .mobile-nav-icon {
@@ -248,7 +248,7 @@ header {
 }
 .mobile-nav-icon i {
     font-size: 200%;
-    color: #9932CC;
+    color: #3df705;
 }
 /* Sticky navi */
 .sticky {
@@ -256,15 +256,15 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(255, 255, 240, 0.98);
-    box-shadow: 0 2px 2px #9932CC;
+    background-color: rgba(255, 255, 255, 0.98);
+    box-shadow: 0 2px 2px #3df705;
     z-index: 9999;
 }
 .sticky .main-nav { margin-top: 18px; }
 .sticky .main-nav li a:link,
 .sticky .main-nav li a:visited {
     padding: 16px 0;
-    color: #9932CC;
+    color: #3df705;
 }
 .sticky .logo { display: none; }
 .sticky .logo-black { display: block; }
@@ -348,7 +348,7 @@ header {
 }
 
 .works-step div {
-    color: #9932CC;
+    color: #3df705;
     border: 2px solid #FFFFF0;
     display: inline-block;
     border-radius: 50%;
@@ -387,7 +387,7 @@ header {
 }
 
 .icon-small {
-    color: #9932CC;
+    color: #3df705;
     display: inline-block;
     width: 30px;
     text-align: center;
@@ -404,9 +404,9 @@ header {
 /*----------------------------------*/
 
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/back-customers-min.jpg);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../img/back-customers-min.jpg);
     background-size: cover;
-    color: #9932CC;
+    color: #3df705;
     background-attachment: fixed;
 }
 
@@ -454,12 +454,12 @@ cite img {
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
-    box-shadow: 0 2px 2px #9932CC;
+    box-shadow: 0 2px 2px #3df705;
 }
 
 .plan-box div {
     padding: 15px;
-    border-bottom: 1px solid #9932CC;
+    border-bottom: 1px solid #3df705;
 }
 
 .plan-box div:first-child {
@@ -477,7 +477,7 @@ cite img {
     font-size: 300%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #9932CC;
+    color: #3df705;
 }
 
 .plan-price span {
@@ -513,7 +513,7 @@ textarea {
     width: 100%;
     padding: 7px;
     border-radius: 3px;
-    border: 1px solid #9932CC;
+    border: 1px solid #3df705;
 }
 
 textarea {
@@ -544,7 +544,7 @@ input[type=checkbox] {
     width: 50%;
     top: 0;
     right: 0;
-    background-color: rgba(255, 255, 240, 0);
+    background-color: rgba(255, 255, 255, 0);
     z-index: 10;
     height: 630px;
     padding-top: 10px;
@@ -559,9 +559,9 @@ input[type=checkbox] {
     color: #333;
 }
 
-.success { background-color: rgba(255, 255, 240, 0.8); }
+.success { background-color: rgba(255, 255, 255, 0.8); }
 
-.error { background-color: rgba(255, 255, 240, 0.8); }
+.error { background-color: rgba(255, 255, 255, 0.8); }
 
 /*----------------------------------*/
 /* FOOTER */
