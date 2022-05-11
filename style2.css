@@ -63,7 +63,7 @@ h3 {
   padding: 1rem;
 
   border-radius: 1rem;
-  background: #fff;
+  background: rgba(56, 95, 202, 0.637);
 }
 
 .product-box__item.animation {
@@ -147,7 +147,7 @@ h3 {
 
   border: 0;
   border-radius: 50px;
-  background: #ffffff;
+  background: #4a51b4c9;
 
   font-size: 1.7rem;
   font-weight: 900;
@@ -156,7 +156,7 @@ h3 {
 .product-box__btn:hover {
   cursor: pointer;
 
-  color: #e5ebed;
+  color: #4a51b4c9;
   background: #000000;
 }
 
@@ -172,7 +172,7 @@ h3 {
   content: "";
 
   border-radius: 50px;
-  background: #e5ebed;
+  background: #4a51b4c9;
 }
 
 .product-box__btn:focus,
@@ -226,7 +226,7 @@ h3 {
   padding: 0.5rem;
 
   border-radius: 10px;
-  background: #e5ebed;
+  background: #4a51b4c9;
 
   grid-template-columns: 1fr 1fr 70px;
   grid-template-rows: 0.3fr 1fr;
@@ -440,7 +440,7 @@ h3 {
   transition: 0.2s linear;
 
   border-radius: 50px;
-  background: #e5ebed;
+  background: #4a51b4c9;
 }
 
 .category-control:checked + .radio-control {
@@ -510,7 +510,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   cursor: pointer;
 
   border-radius: 50px;
-  background: #e5ebed;
+  background: #4a51b4c9;
 }
 
 .bottom-footer {
