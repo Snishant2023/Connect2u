@@ -63,7 +63,7 @@ h3 {
   padding: 1rem;
 
   border-radius: 1rem;
-  background: rgba(56, 95, 202, 0.637);
+  background: rgb(255, 255, 255);
 }
 
 .product-box__item.animation {
@@ -147,7 +147,7 @@ h3 {
 
   border: 0;
   border-radius: 50px;
-  background: #4a51b4c9;
+  background: #b3ff00c9;
 
   font-size: 1.7rem;
   font-weight: 900;
@@ -440,7 +440,7 @@ h3 {
   transition: 0.2s linear;
 
   border-radius: 50px;
-  background: #4a51b4c9;
+  background: #b3ff00c9;
 }
 
 .category-control:checked + .radio-control {
@@ -466,7 +466,7 @@ h3 {
   transform: translate(-50%, -50%);
   pointer-events: none;
 
-  color: white;
+  color: #b3ff00c9;
 
   font-size: 0.8rem;
 
