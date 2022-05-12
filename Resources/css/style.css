@@ -13,8 +13,8 @@ Orange color: #e67e22
 
 html,
 body {
-    background-color: #ffffff;
-    color: #fcb419;
+    background-color: #1b1b1b;
+    color: #fcbf19;
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 300;
     font-size: 20px;
@@ -82,7 +82,7 @@ h3 {
 h2:after {
     display: block;
     height: 2px;
-    background-color: #ffffff;
+    background-color: #1b1b1b;
     content: "";
     width: 100px;
     margin: 0 auto;
@@ -145,7 +145,7 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
     border: 1px solid #fcb419; 
     color: #fcb419;
     margin-right: 15px;
@@ -159,7 +159,7 @@ input[type=submit] {
 
 .btn:hover,
 .btn:active {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
 }
 
 .btn-full:hover,
@@ -172,7 +172,7 @@ input[type=submit]:active {
 .btn-ghost:hover,
 .btn-ghost:active {
     border: 1px solid #fcb419;
-    color: #ffffff;
+    color: #1b1b1b;
 }
 
 .btn-app {
@@ -321,7 +321,7 @@ header {
 /*----------------------------------*/
 
 .section-steps {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
 }
 
 .steps-box:first-child {
@@ -349,7 +349,7 @@ header {
 
 .works-step div {
     color: #fcb419;
-    border: 2px solid #ffffff;
+    border: 2px solid #1b1b1b;
     display: inline-block;
     border-radius: 50%;
     height: 55px;
@@ -446,11 +446,11 @@ cite img {
 /*----------------------------------*/
 
 .section-plans {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
 }
 
 .plan-box {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
@@ -463,7 +463,7 @@ cite img {
 }
 
 .plan-box div:first-child {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
@@ -568,7 +568,7 @@ input[type=checkbox] {
 /*----------------------------------*/
 
 footer {
-    background-color: #ffffff;
+    background-color: #1b1b1b;
     padding: 50px;
     font-size: 80%;
 }
@@ -637,7 +637,7 @@ footer {
 }
 
 footer p {
-    color: #ffffff;
+    color: #1b1b1b;
     text-align: center;
     font-size: 90%;
     margin-top: 20px;
