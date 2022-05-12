@@ -14,7 +14,7 @@ Orange color: #e67e22
 html,
 body {
     background-color: #FFFFF0;
-    color: #9932CC;
+    color: #fcb419;
     font-family: 'Lato', 'Arial', sans-serif;
     font-weight: 300;
     font-size: 20px;
@@ -106,7 +106,7 @@ h2:after {
 .icon-big {
     font-size: 350%;
     display: block;
-    color: #9932CC    ;
+    color: #fcb419    ;
     margin-bottom: 10px;
 }
 
@@ -114,16 +114,16 @@ h2:after {
 
 a:link,
 a:visited {
-    color:#9932CC;
+    color:#fcb419;
     text-decoration: none;
     padding-bottom: 1px;
-    border-bottom: 1px solid #9932CC;
+    border-bottom: 1px solid #fcb419;
     transition: border-bottom 0.2s, color 0.2s;
 }
 
 a:hover,
 a:active {
-    color: #9932CC;
+    color: #fcb419;
     text-decoration: none;
     padding-bottom: 1px;
     border-bottom: 1px transparent;
@@ -146,15 +146,15 @@ input[type=submit] {
 .btn-full:visited,
 input[type=submit] {
     background-color: #FFFFF0;
-    border: 1px solid #9932CC; 
-    color: #9932CC;
+    border: 1px solid #fcb419; 
+    color: #fcb419;
     margin-right: 15px;
 }
 
 .btn-ghost:link,
 .btn-ghost:visited {
-    border: 1px solid #9932CC;
-    color: #9932CC;
+    border: 1px solid #fcb419;
+    color: #fcb419;
 }
 
 .btn:hover,
@@ -166,12 +166,12 @@ input[type=submit] {
 .btn-full:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    border: 1px solid #9932CC;
+    border: 1px solid #fcb419;
 }
 
 .btn-ghost:hover,
 .btn-ghost:active {
-    border: 1px solid #9932CC;
+    border: 1px solid #fcb419;
     color: #FFFFF0;
 }
 
@@ -227,7 +227,7 @@ header {
 .main-nav li a:link,
 .main-nav li a:visited {
     padding: 8px 0;
-    color: #9932CC;
+    color: #fcb419;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 90%;
@@ -237,7 +237,7 @@ header {
 }
 .main-nav li a:hover,
 .main-nav li a:active {
-    border-bottom: 2px solid #9932CC;
+    border-bottom: 2px solid #fcb419;
 }
 /* Mobile navi */
 .mobile-nav-icon {
@@ -248,7 +248,7 @@ header {
 }
 .mobile-nav-icon i {
     font-size: 200%;
-    color: #9932CC;
+    color: #fcb419;
 }
 /* Sticky navi */
 .sticky {
@@ -257,14 +257,14 @@ header {
     left: 0;
     width: 100%;
     background-color: rgba(255, 255, 240, 0.98);
-    box-shadow: 0 2px 2px #9932CC;
+    box-shadow: 0 2px 2px #fcb419;
     z-index: 9999;
 }
 .sticky .main-nav { margin-top: 18px; }
 .sticky .main-nav li a:link,
 .sticky .main-nav li a:visited {
     padding: 16px 0;
-    color: #9932CC;
+    color: #fcb419;
 }
 .sticky .logo { display: none; }
 .sticky .logo-black { display: block; }
@@ -348,7 +348,7 @@ header {
 }
 
 .works-step div {
-    color: #9932CC;
+    color: #fcb419;
     border: 2px solid #FFFFF0;
     display: inline-block;
     border-radius: 50%;
@@ -387,7 +387,7 @@ header {
 }
 
 .icon-small {
-    color: #9932CC;
+    color: #fcb419;
     display: inline-block;
     width: 30px;
     text-align: center;
@@ -406,7 +406,7 @@ header {
 .section-testimonials {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/back-customers-min.jpg);
     background-size: cover;
-    color: #9932CC;
+    color: #fcb419;
     background-attachment: fixed;
 }
 
@@ -454,12 +454,12 @@ cite img {
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
-    box-shadow: 0 2px 2px #9932CC;
+    box-shadow: 0 2px 2px #fcb419;
 }
 
 .plan-box div {
     padding: 15px;
-    border-bottom: 1px solid #9932CC;
+    border-bottom: 1px solid #fcb419;
 }
 
 .plan-box div:first-child {
@@ -477,7 +477,7 @@ cite img {
     font-size: 300%;
     margin-bottom: 10px;
     font-weight: 100;
-    color: #9932CC;
+    color: #fcb419;
 }
 
 .plan-price span {
@@ -513,7 +513,7 @@ textarea {
     width: 100%;
     padding: 7px;
     border-radius: 3px;
-    border: 1px solid #9932CC;
+    border: 1px solid #fcb419;
 }
 
 textarea {
